@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "271619558037",
+    "project_id": "rideme-ae7ae",
+    "storage_bucket": "rideme-ae7ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271619558037:android:ef9635764dfe3eb158299c",
+        "android_client_info": {
+          "package_name": "com.akashkumar2012001.dev.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271619558037-0getk8vhp7eg6f7a43opgormiv0kiniu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akashkumar2012001.dev.riderapp",
+            "certificate_hash": "cb1c378dfe932a7dd65400a73b73cd6f2358da3c"
+          }
+        },
+        {
+          "client_id": "271619558037-dapb2s3rg5m1drvv3r8h3kjggsc5ound.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyfr7Wc2oJDxTzpWRp6gk1mP3aPqkATc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271619558037-dapb2s3rg5m1drvv3r8h3kjggsc5ound.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
